@@ -1,0 +1,16 @@
+requests
+langchain_openai
+langchain
+pydantic
+beautifulsoup4
+python-dotenv
+fastapi
+aiohttp
+openai
+uvicorn
+firecrawl-py
+langfuse
+slugify
+langchain
+langchain_qdrant
+qdrant_client
