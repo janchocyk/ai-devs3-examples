@@ -1,13 +1,10 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List, Optional, Dict, Any
-import asyncio
-import os
 import time
-import json
 
 # Import necessary modules
-import aiohttp
+from enum import Enum
 from dotenv import load_dotenv, find_dotenv
 
 from openAIservice import OpenAIService
@@ -15,8 +12,6 @@ from websearch import WebSearchService
 
 load_dotenv(find_dotenv())
 
-
-from enum import Enum
 
 class Role(str, Enum):
     """
