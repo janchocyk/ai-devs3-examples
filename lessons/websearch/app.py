@@ -15,24 +15,6 @@ from websearch import WebSearchService
 
 load_dotenv(find_dotenv())
 
-# Placeholder prompts (should be defined according to your application logic)
-use_search_prompt = "Determine if a web search is needed based on the user's message. Respond with 0 (no) or 1 (yes)."
-score_results_prompt = "Score the relevance of the resource to the original query."
-select_resources_to_load_prompt = "Select which resources should be loaded based on the filtered results."
-
-# Helper function to generate the domains prompt
-def ask_domains_prompt(allowed_domains):
-    """
-    Generates a system prompt for the OpenAI API based on the allowed domains.
-
-    Args:
-        allowed_domains (List[Dict[str, Any]]): A list of allowed domains.
-
-    Returns:
-        str: The generated prompt string.
-    """
-    domains_list = ', '.join([domain['url'] for domain in allowed_domains])
-    return f"Generate search queries for the following domains: {domains_list}"
 
 from enum import Enum
 
