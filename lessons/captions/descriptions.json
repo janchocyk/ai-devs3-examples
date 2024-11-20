@@ -1,0 +1,74 @@
+[
+  {
+    "alt": "",
+    "url": "https://cloud.overment.com/S02E01-1727094804.png",
+    "context": "This image serves as the cover for the article, introducing the topic of audio and voice interfaces. It sets the stage for the discussion on how large language models can be integrated with text-to-speech and speech-to-text technologies.",
+    "description": "The image serves as a striking cover for the article on audio and voice interfaces, prominently featuring a large microphone at its center, symbolizing the core theme of voice technology. Surrounding the microphone is vibrant green smoke and abstract digital elements, evoking a sense of innovation and modernity. A cloaked figure stands in front of the microphone, adding a layer of intrigue and contrast against the lighter background. This composition effectively blends technology with a mystical atmosphere, reflecting the article's focus on the integration of large language models with text-to-speech and speech-to-text technologies, setting the stage for a discussion on the future of audio interfaces.",
+    "preview": "The image features a large microphone at the center, surrounded by vibrant green smoke and abstract digital elements. A figure in a cloak stands in front of the microphone, creating a contrast against the lighter background. The overall composition blends technology and a mystical atmosphere, with a focus on the microphone as the main subject.",
+    "name": "S02E01-1727094804.png"
+  },
+  {
+    "alt": "Interfejs głosowy umożliwiający interakcję z LLM w formie 'rozmowy telefonicznej', bez konieczności ręcznej kontroli z pomocą przycisków",
+    "url": "https://cloud.overment.com/2024-09-22/aidevs3_voiceui-da474703-1.png",
+    "context": "This image illustrates a voice interface that allows interaction with a large language model (LLM) in a 'phone call' format, enabling users to engage without manual controls. It highlights the advancements in voice technology discussed in the article.",
+    "description": "The image showcases a dark-themed voice interface designed for interaction with a large language model (LLM) in a phone call format. At the top, a circular placeholder indicates a profile picture, while two text bubbles display a conversation: one greeting in blue and a response in gray. This layout emphasizes the seamless communication experience enabled by voice technology, allowing users to engage without manual controls. The interface includes an input area with ellipses and a prominent blue gradient 'Hang up' button, highlighting the user-friendly design that reflects advancements in voice interaction technology discussed in the article.",
+    "preview": "The image features a dark-themed chat interface with a circular placeholder for a profile picture at the top. Below, there are two text bubbles: one in blue with a greeting and another in gray with a response. At the bottom, there is an input area with ellipses and a prominent blue gradient 'Hang up' button.",
+    "name": "aidevs3_voiceui-da474703-1.png"
+  },
+  {
+    "alt": "",
+    "url": "https://cloud.overment.com/2024-09-22/aidevs3_whisper-6cc958bc-1.png",
+    "context": "This image likely depicts the Whisper model's interface or functionality, emphasizing its capabilities in audio transcription. The article discusses how Whisper supports various audio formats and the importance of accurate transcription in voice interfaces.",
+    "description": "The image showcases the user interface of the 'groqcloud' application, designed for the Whisper model, which focuses on audio transcription capabilities. The dark-themed interface features sections labeled 'Playground' and 'SYSTEM', with input fields for system messages and buttons for 'Start Recording' and 'Select File'. This setup highlights Whisper's functionality in handling various audio formats, as indicated by the note on supported file types. The vibrant green background enhances the visibility of the interface elements, emphasizing the importance of accurate transcription in voice interfaces, as discussed in the accompanying article.",
+    "preview": "The image features a dark-themed user interface for a cloud application, labeled 'groqcloud'. It includes sections for 'Playground' and 'SYSTEM', with input fields for entering a system message. There are buttons for 'Start Recording' and 'Select File', along with a note about supported file formats. The background is a vibrant green, contrasting with the dark interface elements.",
+    "name": "aidevs3_whisper-6cc958bc-1.png"
+  },
+  {
+    "alt": "",
+    "url": "https://cloud.overment.com/2024-09-22/aidevs3_audioprompt-6628ec95-1.png",
+    "context": "This image is related to the use of system prompts in the Whisper model to improve transcription accuracy. The article explains how incorporating a custom dictionary can enhance the recognition of specific terms during audio processing.",
+    "description": "The image showcases a user interface for a speech recording application, set against a dark background with a green border. It includes sections labeled 'SYSTEM' and 'SPEECH', featuring controls for starting a recording and selecting audio files. Below these controls, there are segments and text areas displaying a timestamp alongside a message from a user named Adam, indicating the beginning of a recording. This interface is relevant to the article's focus on enhancing transcription accuracy in the Whisper model, as it highlights the importance of system prompts and custom dictionaries in improving the recognition of specific terms during audio processing.",
+    "preview": "The image displays a user interface for a speech recording application. The background is dark with a green border. It features sections labeled 'SYSTEM' and 'SPEECH', with options to start recording and select a file. Below, there are segments and text areas showing a timestamp and a message from a user named Adam.",
+    "name": "aidevs3_audioprompt-6628ec95-1.png"
+  },
+  {
+    "alt": "",
+    "url": "https://cloud.overment.com/2024-09-22/aidevs3_silence-fc37cd91-0.png",
+    "context": "This image addresses the challenges Whisper faces with processing silence and short audio clips. The article mentions that transcriptions of silent segments can yield incorrect outputs, highlighting the need to avoid processing non-verbal audio.",
+    "description": "The image presents a dark user interface set against a vibrant green background, featuring controls for audio recording and file selection. Prominently displayed is the text \"Thank you,\" alongside a progress indicator for file size. This visual representation aligns with the article's discussion on the challenges faced by Whisper in processing silence and short audio clips. It highlights the potential for incorrect transcriptions of silent segments, emphasizing the importance of avoiding the processing of non-verbal audio to enhance transcription accuracy. The interface serves as a practical tool for managing audio input, reflecting the technical considerations outlined in the article.",
+    "preview": "The image features a dark interface with a green background. It includes buttons for recording and selecting files, along with a display for audio segments and text. The text 'Thank you.' is prominently displayed, and there is a progress indicator showing the file size.",
+    "name": "aidevs3_silence-fc37cd91-0.png"
+  },
+  {
+    "alt": "Interakcja głosowa niemal zawsze będzie wymagała dodatkowej logiki, umożliwiającej dostęp do narzędzi i/lub pamięci długoterminowej",
+    "url": "https://cloud.overment.com/2024-09-22/aidevs3_audioui-541fc154-1.png",
+    "context": "This image represents the additional logic required for voice interaction, which allows access to tools and long-term memory. The article discusses how such logic is essential for effective communication with LLMs.",
+    "description": "The image presents a flowchart on a black background that outlines an audio processing system essential for voice interaction. It features three key components: 'Audio Input' in yellow, 'Processing' in red, and 'Audio Output' in green, connected by arrows that illustrate the flow of audio data. This visual representation aligns with the article's discussion on the additional logic required for effective communication with large language models (LLMs), emphasizing the importance of processing audio input to facilitate access to tools and long-term memory. The flowchart succinctly encapsulates the core elements of audio interaction, highlighting the systematic approach necessary for enhancing user engagement with LLMs.",
+    "preview": "The image features a flowchart on a black background, illustrating an audio processing system. It includes three labeled boxes: 'Audio Input' in yellow, 'Processing' in red, and 'Audio Output' in green, connected by arrows indicating the flow of audio data.",
+    "name": "aidevs3_audioui-541fc154-1.png"
+  },
+  {
+    "alt": "",
+    "url": "https://cloud.overment.com/2024-09-22/aidevs3_recording-9d146326-4.png",
+    "context": "This image likely illustrates the audio recording process, detailing how the system connects to a microphone and analyzes audio tracks for visualization and transcription. The article outlines the steps involved in capturing and processing audio input.",
+    "description": "The image showcases a code snippet in a dark-themed code editor, primarily written in JavaScript, that outlines the audio recording process. It details functions for initializing an audio context, accessing the user's microphone, and setting up an audio analyzer for real-time frequency analysis. The code emphasizes the steps necessary for capturing and processing audio input, which aligns with the article's focus on audio visualization and transcription. The dark background with green highlights enhances readability, making it clear that the snippet is part of a technical discussion on audio processing systems.",
+    "preview": "The image displays a code snippet in a dark-themed code editor. The code is primarily written in JavaScript and focuses on audio processing, including functions for starting recording, accessing the microphone, and setting up an audio context. The background is dark with green highlights, and the text is formatted in a monospaced font.",
+    "name": "aidevs3_recording-9d146326-4.png"
+  },
+  {
+    "alt": "",
+    "url": "https://cloud.overment.com/2024-09-23/aidevs3_transcript-d0bbfb89-b.png",
+    "context": "This image is associated with the transcription interface, showcasing how tools like Happyscribe and AssemblyAI can be utilized for longer content formats. The article emphasizes the advantages of using established solutions for transcription tasks.",
+    "description": "The image presents a user interface for a transcription tool, featuring a video titled \"alice.mp4\" on the right alongside a dark-themed chat window for an AI assistant named Alice. On the left, a transcript displays text entries with corresponding timestamps, highlighting the structured format of the content. The background showcases a gradient of purple and blue hues, creating a visually appealing aesthetic. This interface exemplifies how tools like Happyscribe and AssemblyAI can effectively manage longer content formats, emphasizing the benefits of established transcription solutions for enhancing productivity and organization in content creation.",
+    "preview": "The image features a user interface displaying a video titled 'alice.mp4' on the right, with a dark-themed chat window for an AI assistant named Alice. The left side shows a transcript with timestamps and text entries. The background has a gradient of purple and blue hues.",
+    "name": "aidevs3_transcript-d0bbfb89-b.png"
+  },
+  {
+    "alt": "",
+    "url": "https://cloud.overment.com/2024-09-23/aidevs3_voice-aab7724c-0.png",
+    "context": "This image depicts the voice interface, reflecting the integration of learned concepts about LLM interactions and external tools. The article discusses the importance of context and user-specific keywords in enhancing voice interface functionality.",
+    "description": "The image presents a flowchart on a black background, framed by a green border, illustrating the interaction process of a voice interface system. It outlines the sequence of events starting from the user speaking and playing audio, through the user interface, and into the backend server. Key components include audio transcription via OpenAI Whisper, text processing through the OpenAI Chat API, and generating audio responses using text-to-speech technologies. The flowchart emphasizes the integration of audio and text data, highlighting the importance of context and user-specific keywords in enhancing the functionality of voice interfaces, as discussed in the accompanying article. This visual representation encapsulates the systematic approach to improving user interactions with large language models and external tools.",
+    "preview": "The image features a flowchart on a black background with a green border. It illustrates a process involving a user interacting with a system, including components like 'User Interface', 'Backend Server', and various audio and text processing stages. Arrows connect the elements, indicating the flow of audio and text data, with labels in purple.",
+    "name": "aidevs3_voice-aab7724c-0.png"
+  }
+]
